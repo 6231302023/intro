@@ -1,0 +1,22 @@
+{
+  "fruits": [
+    {
+      "name": "Apple",
+      "image": "apple.png",
+      "id": 1
+    },
+    {
+      "name": "Banana",
+      "image": "banana.png",
+      "id": 2
+    },
+    {
+      "name": "Orange",
+      "image": "orange.png",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}

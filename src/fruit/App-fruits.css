@@ -1,0 +1,37 @@
+#divadd{
+    display: flex;
+    justify-content: end;
+}
+#btnadd
+ {
+    background-color: green;
+    color: white;
+    padding: 6px;
+    margin-right:  4px;
+    border: 0;
+
+}
+.fruit-item{
+    display: flex;
+    border: solid 2px rebeccapurple;
+    margin: 6px;
+    align-items: center;
+    
+}
+#btnEdit{
+    margin-left: auto;
+    background-color: blue;
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    
+}
+#btndelete{
+    background-color: red;
+    border: 0;
+    border-radius: 1px;
+    color: white;
+}
+#standard-basic{
+    margin-right: 100px;
+}
